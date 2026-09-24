@@ -1,0 +1,21 @@
+AURORA-01 MISSION REPORT
+=============================================
+
+Mission ID     : AURORA-01
+Mission Status : ACTIVE
+
+TELEMETRY
+------------------------------
+Fuel Level       : 50.0 %
+Oxygen Level     : 94.0 %
+Temperature      : 27.0 °C
+Battery Level    : 10 %
+Altitude         : 1000.0 km
+
+EVENT LOG
+------------------------------
+21:24:37 - Mission started
+21:25:17 - Telemetry updated
+21:25:26 - System diagnostics completed
+21:25:48 - Emergency simulated: Battery failure
+21:26:01 - Mission decision: ABORT - Critical battery

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+mission_log.txt
+.DS_Store
+Thumbs.db

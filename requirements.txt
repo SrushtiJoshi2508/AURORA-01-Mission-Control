@@ -1,0 +1,2 @@
+# AURORA-01 uses Python standard library only.
+# No external packages are required.
